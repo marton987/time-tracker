@@ -12,3 +12,8 @@ This project is a test to use ReactJS and it will simulate the connection throug
 * Webpack
 
     `npm install webpack -g`
+
+# Run project
+
+        npm install
+        npm run dev
